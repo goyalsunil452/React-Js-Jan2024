@@ -1,0 +1,33 @@
+{
+  "name": "learning-react",
+  "version": "1.0.0",
+  "description": "This is basic react using html and JS",
+  "main": "index.html",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goyalsunil452/React-Js-Jan2024.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Sunil Goyal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/goyalsunil452/React-Js-Jan2024/issues"
+  },
+  "homepage": "https://github.com/goyalsunil452/React-Js-Jan2024#readme",
+  "devDependencies": {
+    "parcel": "^2.10.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserslist":[
+    "last 10 version"
+  ]
+}
